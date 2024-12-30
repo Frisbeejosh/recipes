@@ -1,7 +1,5 @@
 # recipes
 recipes of my nana digitized for my mom
-
-for me to run this: 
 <br>
 load environment
 ```{bash}
